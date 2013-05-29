@@ -1,1 +1,9 @@
-Todo: Fill in readme
+A python script that translates human readable text into morse.
+The morse code will be visualised inside the active terminal and played back over the default soundcard.
+The playback is done at 10 words per minute (10wpm)
+
+Dependencies:
+- python-alsaaudio
+
+Warning: This script has been tested on Fedora 17,18 only.
+
